@@ -1,4 +1,14 @@
 Program Hello \, Uses Crt;
-ClrScr;
-Writeln('Hello World'); //untuk mengeluarkan string 'Hello World' di layar
-End
+Uses Crt;
+Begin
+<="" span="">ClrScr;
+
+Writeln(‘Hello’);
+Writeln(‘1301154280’); 
+Writeln(‘Adityo Nugroho’); 
+Writeln(‘IF-39-14’); 
+Writeln(‘Hilmy’); 
+Writeln(‘1301154336’); 
+Writeln(‘Modul 6’); 
+
+End.
